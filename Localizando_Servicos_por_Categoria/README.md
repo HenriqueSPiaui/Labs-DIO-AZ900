@@ -76,23 +76,18 @@ Na página "Criar um recurso", as categorias estão organizadas para facilitar a
 
 ---
 
-### 4. 🔍 Utilize a Barra de Busca
-Se já souber qual funcionalidade deseja, use a barra de busca no topo da página "Criar um recurso". Insira o nome ou uma palavra-chave relacionada para localizá-la rapidamente.
-
----
-
-### 5. 📑 Filtrando Funcionalidades e Explorando o Azure Marketplace
+### 4. 📑 Filtrando Funcionalidades e Explorando o Azure Marketplace
 Clique em uma categoria e utilize filtros, como tipo de funcionalidade ou preço, para refinar sua pesquisa. Explore também o **Azure Marketplace**, que oferece soluções de terceiros.
 
 ---
 
-### 6. ⚙️ Criar e Configurar Funcionalidades
+### 5. ⚙️ Criar e Configurar Funcionalidades
 Após encontrar a funcionalidade desejada, clique nela para iniciar a criação. O Azure fornece um assistente passo a passo para configurar e provisionar a funcionalidade no ambiente desejado.
 
 ---
 
 ##  Conclusão
 
-Com este guia, é possível navegar de maneira eficiente no **Microsoft Azure** e encontrar as funcionalidades que precisa. A organização por categorias e filtros facilita a descoberta de novas opções, enquanto o **Azure Marketplace** amplia suas possibilidades. Para mais detalhes, consulte a [documentação oficial do Azure](https://docs.microsoft.com/azure) e explore as ferramentas disponíveis no **Microsoft Learn**.
+Com este guia, é possível navegar de maneira eficiente no **Microsoft Azure** e encontrar as funcionalidades que precisa. A organização por categorias e filtros facilita a descoberta de novas opções, enquanto o **Azure Marketplace** amplia suas possibilidades.
 
 ---
